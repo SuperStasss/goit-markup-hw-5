@@ -572,7 +572,10 @@ a:active {
 
 .portfolio__grid-sub p {
 	color : var(--color-stale);
-
+	font-weight    : 400;
+	font-size      : 16px;
+	letter-spacing : 0.02em;
+	line-height    : calc(24 / 16);
 	}
 
 
