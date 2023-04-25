@@ -664,11 +664,9 @@ a:active {
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 	}
 
-
 .modal-form input:focus + .modal-svg{
 	fill: var(--color-iris);
 	}
-
 
 .modal-svg{
 	position: absolute;
@@ -681,7 +679,6 @@ a:active {
 	height        : 58px;
 	margin-bottom : 8px;
 	}
-
 
 .modal-form label {
 	display        : block;
